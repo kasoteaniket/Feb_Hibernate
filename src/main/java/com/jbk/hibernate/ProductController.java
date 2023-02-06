@@ -41,9 +41,6 @@ public class ProductController {
 		
 		System.out.println("press 10 to see Restriction examples");
 		
-		System.out.println("press 11 to see all product");
-		
-		System.out.println("press 12 to see all product");
 		
 	
 		int choice=scanner.nextInt();
